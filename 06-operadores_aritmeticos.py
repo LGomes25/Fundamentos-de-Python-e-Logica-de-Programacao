@@ -1,0 +1,11 @@
+produto_1 = int(input('Informe o valor do produto 1: '))
+produto_2 = int(input('Informe o valor do produto 2: '))
+
+print('\n')
+print('Soma dos valores de produto 1 e 2: ', produto_1 + produto_2)
+print('Subtração dos valores de produto 1 e 2: ', produto_1 - produto_2)
+print('Divisão (float) dos valores de produto 1 e 2: ', produto_1 / produto_2)
+print('Divisão (int) dos valores de produto 1 e 2: ', produto_1 // produto_2)
+print('Multiplicação dos valores de produto 1 e 2: ', produto_1 * produto_2)
+print('Modulo (resto da divisão) dos valores de produto 1 e 2: ', produto_1 % produto_2)
+print('Exponencição dos valores de produto 1 e 2: ', produto_1 ** produto_2)
