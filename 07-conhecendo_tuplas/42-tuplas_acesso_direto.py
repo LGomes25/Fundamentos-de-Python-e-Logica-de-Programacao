@@ -1,0 +1,6 @@
+frutas = ('laranja', 'maca', 'uva', 'tamarindo', "cajá",)
+print(f'\nTupla - listar tudo: {frutas}')
+print(f'\nTupla - Acesso direto por indice(0): {frutas[0]}')
+print(f'\nTupla - Acesso direto por indice(3): {frutas[3]}')
+print(f'\nTupla - Acesso direto por indice(-1): {frutas[-1]}')
+print(f'\nTupla - Acesso direto por indice(-4): {frutas[-4]}')
