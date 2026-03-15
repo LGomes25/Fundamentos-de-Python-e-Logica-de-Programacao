@@ -10,7 +10,7 @@ O objetivo é oferecer uma base sólida para quem está iniciando na programaç�
 ---
 
 ## Estrutura
-
+```
 📂 FUNDAMENTOS DE PYTHON E LÓGICA DE PROGRAMAÇÃO
 ├── 01-ambiente_desenvolvimento
 ├── 02-conhecendo_python
@@ -22,6 +22,7 @@ O objetivo é oferecer uma base sólida para quem está iniciando na programaç�
 ├── 08-dicionarios
 ├── 09-desafio_fundamentos_python
 └── README.md
+```
 
 ---
 
@@ -45,11 +46,11 @@ Esses desafios simulam problemas reais e ajudam a desenvolver raciocínio lógic
 ## Para rodar os arquivos no terminal
 
 Em cada pasta do projeto:
-'''
+```
     > python -i <nome_do_arquivo>
-'''
+```
 
 para sair do modo de execução python, digitar: 
-'''
+```
     >>> close()
-'''
+```
